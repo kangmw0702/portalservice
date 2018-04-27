@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="jeju@localhost" uuid="2f3bb739-6c96-482b-8745-4d25ddc33839">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>jeju</user-name>
+    </data-source>
+    <data-source name="jeju@localhost [2]" uuid="2ae40e7b-6145-4e07-8160-977fb670da61">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>jeju</user-name>
+    </data-source>
+  </component>
+</project>
